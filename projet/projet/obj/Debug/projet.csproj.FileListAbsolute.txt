@@ -1,0 +1,30 @@
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\bin\Debug\projet.exe.config
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\bin\Debug\projet.exe
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\bin\Debug\projet.pdb
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.csproj.AssemblyReference.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Properties.Resources.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.csproj.GenerateResource.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.csproj.CoreCompileInputs.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.exe
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.pdb
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form1.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form2.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form3.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form4.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form5.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\projet\projet\obj\Debug\projet.Form6.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\bin\Debug\projet.exe.config
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\bin\Debug\projet.exe
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\bin\Debug\projet.pdb
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.csproj.AssemblyReference.cache
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form1.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form2.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form3.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form4.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form5.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Form6.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.Properties.Resources.resources
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.csproj.GenerateResource.cache
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.csproj.CoreCompileInputs.cache
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.exe
+C:\Users\user4\source\repos\mini-projet\p1\projet\projet\obj\Debug\projet.pdb
